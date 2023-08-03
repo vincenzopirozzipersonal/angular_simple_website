@@ -1,0 +1,11 @@
+.carousel-container {
+    height: 70vh; /* Adjust as needed */
+    width: 80%; /* Adjust as needed */
+    margin: 2em auto 0; /* Centers the carousel */
+    overflow: hidden;
+}
+
+.carousel-container img {
+    height: 100%;
+    width: auto;
+}
